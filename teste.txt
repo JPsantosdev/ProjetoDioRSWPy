@@ -1,0 +1,1 @@
+Ólá, submundo. Esse é um teste de aplicação de um Ramsonware feito em Python.
